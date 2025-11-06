@@ -7,7 +7,7 @@ A campus bot that gives you directions from the gate, what the canteen can offer
 
 •	Course name: Artificial intelligence real world application and implication. 
 
-•	Link for Chatbot: 
+•	Link for Chatbot: https://jeyaditya.github.io/IDAI101_1000406_Jeyaditya_AIY1_SA/
 
 
 IB Campus Bot – Project Documentation
